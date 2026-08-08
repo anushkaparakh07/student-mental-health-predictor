@@ -39,4 +39,3 @@ student-mental-health-predictor/
 ├── Mental Health Score Prediction.ipynb
 ├── requirements.txt
 ├── README.md
-└── .gitignore
